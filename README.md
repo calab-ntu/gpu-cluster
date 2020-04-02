@@ -1,2 +1,2 @@
-# GPU Cluster -- eureka
-Documentation: [wiki](https://github.com/calab-ntu/eureka/wiki)
+# *Eureka* GPU Cluster
+[Documentation](https://github.com/calab-ntu/eureka/wiki)
