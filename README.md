@@ -1,2 +1,2 @@
-# eureka
-User and administration guides of the GPU cluster "eureka"
+# GPU Cluster -- eureka
+Documentation: [wiki](https://github.com/calab-ntu/eureka/wiki)
